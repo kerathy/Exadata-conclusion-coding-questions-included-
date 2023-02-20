@@ -16,3 +16,6 @@ Exadata-projects:
 https://github.com/kerathy/exadata-projects
 
 Exadata-part4:
+coding questions:
+https://github.com/kerathy/codingpractice
+
