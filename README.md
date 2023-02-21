@@ -29,4 +29,4 @@ https://github.com/kerathy/coding-new02
 I previously published them; however, I occasionally set the repository to be private; thus, if you see someone's code that looks similar to mine, it is normal.
 
 
-I mean, I published them, set them to be private, or deleted them—just my habit. Sometimes, I feel my code is not clean enough. I will publish them later.
+I mean, I published them, set them to be private, or deleted them—just my habit. Sometimes, I feel my code is not clean enough due to time limitations. I will publish them later.
