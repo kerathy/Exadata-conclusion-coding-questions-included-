@@ -18,7 +18,7 @@ https://github.com/kerathy/exadata-projects
 Exadata-part4:
 
 Coding questions in Exa Data:
-While I worked for Exa Data, I submitted them to Exa Data and set the repository to be private later.
+While I worked for Exa Data, I submitted them to Exa Data and set the repository to be private later. There should be no argument with Exa Data.
 
 https://github.com/kerathy/codingpractice
 
