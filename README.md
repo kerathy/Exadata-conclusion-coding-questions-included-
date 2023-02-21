@@ -30,3 +30,5 @@ I previously published them; however, I occasionally set the repository to be pr
 
 
 I mean, I published them, set them to be private, or deleted them—just my habit. Sometimes, I feel my code is not clean enough due to time limitations. I will publish them later.
+
+In case of plagiarism, once I set it to public, I will not change it back to private again.
