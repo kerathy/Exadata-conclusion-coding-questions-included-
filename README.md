@@ -30,7 +30,6 @@ https://github.com/kerathy/kotlinpractice
 
 I previously committed them to Github and set them to be public; however, I occasionally set the repository to be private; thus, if you see someone's code that looks similar to mine, it is normal.
 
-
 I mean, I committed them to Github (public), then set the repository to be private or deleted them—just my habit. Sometimes, I feel my code is not clean enough due to time limitations. I will make the repositories public later.
 
-In case of plagiarism, once I set it to public, I will not change it back to private again.
+In case of plagiarism, in the future, once I set it to public, I will not change it back to private again.
